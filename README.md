@@ -2,7 +2,7 @@
 
 Simple Api for learning Course using Golang and Mysql for the database
 
-Step by step:
+Step by step:<br>
 First make your directorie and make a git clone: `https://github.com/AnggaDanarP/Online-Learning-Plathform.git`
 
 run terminal `go mod init`
